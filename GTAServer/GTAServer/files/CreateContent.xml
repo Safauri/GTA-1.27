@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="CreateContent">
+  <Status>1</Status>
+  <Result Count="0" Total="0" Hash="0">
+  </Result>
+</Response>

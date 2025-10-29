@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><Response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="GetPresenceServersResponse"><Status>1</Status><Result Count="1" IsSecure="false"><Server Host="45.90.12.35:6677" IsXblSg="false"></Server></Result></Response>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><Response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="WriteStatsResponse"><Status>1</Status><NumWritten>0</NumWritten><SecsUntilNextWrite>90</SecsUntilNextWrite><MaxSubmissionBinarySize>8192</MaxSubmissionBinarySize></Response>

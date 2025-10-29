@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <Response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ClanMembershipResponse" ms="10">
+      <Status>1</Status>
+      <Memberships Count="3" MaxCount="3">
+        <Membership Id="245325077" IsPrimary="true" JoinedTimePosix="1679776838">
+          <Clan Id="6835045" Name="GTAO" Tag="GTAO" Motto="GTAO" IsSystemClan="0" IsOpenClan="0" CreatedTimePosix="1679776207" MemberCount="7" Colors="Black" IsVerifiedClan="0"/>
+          <Rank Id="115134229" Name="Leader" RankOrder="0" SystemFlags="9223372036854775807"/>
+        </Membership>
+      </Memberships>
+    </Response>
